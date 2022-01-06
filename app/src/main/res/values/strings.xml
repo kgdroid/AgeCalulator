@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgeCal</string>
+    <string name="stringYears">Years:</string>
+    <string name="stringMonths">Months:</string>
+    <string name="stringDays">Days:</string>
+    <string name="stringHours">Hours:</string>
+    <string name="stringMinutes">Minutes:</string>
+    <string name="stringSeconds">Seconds:</string>
+</resources>
