@@ -1,13 +1,15 @@
 # AgeCalulator
-# Beginner project
-# Easy college project
+
 This is my first ever android project.
 <-------------------------------------->
 
-AgeCal have 3 funtionalities in total:
-1. It allows you to select the date from calender and then calculate your age in year, month and day i.e: 22 years, 2 months, 10 days.
-2. Then it will calculate next birthday from selected date in months and days
-3. And lastly it will calculate total years, months, days, hours, minutes, seconds.
+AgeCal:
+* AgeCal is a basic age calculator native android app.
+* It allows you to select the date from calender and then calculate your age in year, month and day i.e: 22 years, 2 months, 10 days.
+* Then it will calculate next birthday from selected date in months and days
+* And lastly it will calculate total years, months, days, hours, minutes, seconds.
+
+*It support Themes too (Light and Dark theme).
 
 External Library:
 Only one dependency is used: joda-time-android.
