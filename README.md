@@ -1,7 +1,6 @@
 # AgeCalulator
 
-This is my first ever android project.
-<-------------------------------------->
+// This is my first ever android project.
 
 AgeCal:
 * AgeCal is a basic age calculator native android app.
