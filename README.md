@@ -8,7 +8,7 @@ AgeCal:
 * Then it will calculate next birthday from selected date in months and days
 * And lastly it will calculate total years, months, days, hours, minutes, seconds.
 
-*It support Themes too (Light and Dark theme).
+It support Themes too (Light and Dark theme).
 
 External Library:
 Only one dependency is used: joda-time-android.
